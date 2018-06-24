@@ -1,0 +1,1 @@
+Pour décomposer un gif animés en ses images (frames) voyez ce site: [https://www.bloggif.com/gif-extract](https://www.bloggif.com/gif-extract)
