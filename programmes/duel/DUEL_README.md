@@ -21,3 +21,15 @@
 1. Dupliquer vaisseau1 et missile1 vers vaisseau2 et missile2, et adapter le 2
 
 1. Définir les comportement de fin (à partir de message&nbsp;: C'est fini, Vaisseau1 gagne, Vaisseau2 gagne)
+
+## Touches (azerty)
+```
++-------------------------+
+| Vaisseau 1 | Vaisseau 2 |
++------------+------------+-----------------+
+|     Z      |     Y      | Avance          |
+|   Q   D    |   G   J    | Gauche / droite |
+|     X      |     N      | Recule          |
+|     S      |     H      | Tire            |
++------------+------------+-----------------+     
+```

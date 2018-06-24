@@ -1,6 +1,8 @@
 # Aperçu des programmes
 ## Programmes simples ou progressifs
 
+- _Robert_, allo&nbsp;: Comprendre les messages synchrones et asynchrones avec Tintinabulus et Galadrielle.
+
 - _Robert_, duel&nbsp;: voyez  [DUEL\_README.md](https://github.com/TechiesLab/scratch/blob/master/programmes/duel/DUEL_README.md).
 
 - _Robert_, frog&nbsp;: jeu de type "frog" avec une grenouille qui doit traverser la route sans se faire écraser.
@@ -11,7 +13,7 @@
 	1. frog game.sb2&nbsp;: jeu complet; ajout des points; 1 point à chaque fois que Frog traverse la route en étant sauf (notion de bascule introduite)
 	1. Exemple&nbsp;:  [frog game](https://scratch.mit.edu/projects/211884283/) sur scratch.mit.edu
 
-- _Robert_, je_fais_mon_cinema&nbsp;: décomposer un gif animé en "frames" et faire une séance de cinéma à l'aide des costumes. Pour décomposer un gif animés en ses images (frames) voyez ce site: [https://www.bloggif.com/gif-extract](https://www.bloggif.com/gif-extract)
+- _Robert_, je\_fais\_mon\_cinema&nbsp;: décomposer un gif animé en "frames" et faire une séance de cinéma à l'aide des costumes. Pour décomposer un gif animés en ses images (frames) voyez ce site: [https://www.bloggif.com/gif-extract](https://www.bloggif.com/gif-extract)
 
 - _Robert_, le\_pied\_a\_l\_etrier&nbsp;: 6 petits programmes basiques utiles à la découverte de scratch.
 
