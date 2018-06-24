@@ -11,6 +11,8 @@
 	1. frog game.sb2&nbsp;: jeu complet; ajout des points; 1 point à chaque fois que Frog traverse la route en étant sauf (notion de bascule introduite)
 	1. Exemple&nbsp;:  [frog game](https://scratch.mit.edu/projects/211884283/) sur scratch.mit.edu
 
+- _Robert_, je_fais_mon_cinema&nbsp;: décomposer un gif animé en "frames" et faire une séance de cinéma à l'aide des costumes. Pour décomposer un gif animés en ses images (frames) voyez ce site: [https://www.bloggif.com/gif-extract](https://www.bloggif.com/gif-extract)
+
 - _Robert_, le\_pied\_a\_l\_etrier&nbsp;: 6 petits programmes basiques utiles à la découverte de scratch.
 
 - _Robert_, programmer\_un\_saut&nbsp;: apprentissage progressif f'un saut type "plateforme". Un lutin saute de plateformes noires en plateforme noires, meurt sur la couleur bleue, et change de décor ou gagne sur une autre couleur.
