@@ -21,3 +21,7 @@
 	1. Programmer un saut1b.sb2&nbsp;: Saut avec différentiel d'accéleration ver sle haut, le dragon monte de + en + lentement tant qu'on appuie sur la flèche haut et finit par s'arrêter, puis / sinon descend + déplacements latéraux. Le problème du dragon n'est pas résolu.
 	1. Programmer un saut2.sb2&nbsp;: = 1a + 1b
 	1. [Exemple](https://scratch.mit.edu/projects/214474955/)  d'un jeu plus complet avec 3 niveaux et plateformes mobiles. 
+
+- _Robert_, race&nbsp;: petit jeu de course entre 2 lutins.
+	- Race1.sb2&nbsp;: Déplacement avec appui continu (et concurrent) sur les touches "m" et "q"
+	- Race1.sb2&nbsp;: Déplacement avec appui successif sur les touches "m" et "q". Introduction de la notion de drapeau.
