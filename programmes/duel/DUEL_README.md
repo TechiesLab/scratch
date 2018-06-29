@@ -1,4 +1,4 @@
-# Duel
+# Duel lite
 ## Progression
 
 1. Général&nbsp;: Préparer des variables de configuration.
@@ -33,3 +33,7 @@
 |     S      |     H      | Tire            |
 +------------+------------+-----------------+     
 ```
+
+## Exemples:
+- Le programme [défini ici](https://scratch.mit.edu/projects/230388304/) (Duel lite)
+- Une [version améliorée](https://scratch.mit.edu/projects/230747532/)  (Duel)
