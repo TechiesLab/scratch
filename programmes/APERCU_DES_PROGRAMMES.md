@@ -3,6 +3,8 @@
 
 - _Robert_, allo&nbsp;: Comprendre les messages synchrones et asynchrones avec Tintinabulus et Galadrielle.
 
+- _Robert_, chronometre&nbsp;: top-chrono, utiliser le chronomètre de scratch. 
+
 - _Robert_, duel&nbsp;: voyez  [DUEL\_README.md](https://github.com/TechiesLab/scratch/blob/master/programmes/duel/DUEL_README.md).
 
 - _Robert_, frog&nbsp;: jeu de type "frog" avec une grenouille qui doit traverser la route sans se faire écraser. Pour les détails, voyez [FROG_GAME.md](https://github.com/TechiesLab/scratch/blob/master/programmes/frog/FROG_GAME.md)
